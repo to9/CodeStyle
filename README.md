@@ -1,6 +1,6 @@
 # CodeStyle
 
-Project use Qt
+CodeStyle工程使用QT5.9.2编写,程序运行需要调用AStyle.exe来实现代码格式化."Artistic Style 3.0.1"。可以在http://astyle.sourceforge.net/下载
 
 # Description
 
