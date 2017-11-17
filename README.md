@@ -14,4 +14,4 @@ c、c++代码格式化工具.
 
 * Simple App on Windows:
 
-![image](https://github.com/to9/PiSmartCenter/blob/master/images/PiSmartCenter.png)
+![image](https://github.com/to9/CodeStyle/blob/master/images/codestyle.png)
