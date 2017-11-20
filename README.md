@@ -1,4 +1,5 @@
 # CodeStyle
+**v1.0.0.1**
 
 CodeStyle工程使用QT5.9.2编写,程序运行需要调用AStyle.exe来实现代码格式化. 所使用的AStyle版本为3.0.1".<br>
 >AStyle.exe下载地址是：http://astyle.sourceforge.net/
