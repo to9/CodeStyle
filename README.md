@@ -1,5 +1,5 @@
-![image](https://github.com/to9/CodeStyle/blob/master/images/CodeStyle.png）
-
+![image](https://github.com/to9/CodeStyle/blob/master/images/CodeStyle.png)
+         
 # CodeStyle
 
 **v1.0.0.1**
