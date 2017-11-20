@@ -5,7 +5,7 @@ CodeStyle工程使用QT5.9.2编写,程序运行需要调用AStyle.exe来实现�
 
 # Description
 
-c、c++代码格式化工具.
+c、c++代码格式化工具.支持c、c++功能。可选择文件、文件夹、递归文件夹。
 
 # License
 
