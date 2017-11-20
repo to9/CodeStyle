@@ -1,8 +1,7 @@
 ![image](https://github.com/to9/CodeStyle/blob/master/images/CodeStyle.png)
          
 # CodeStyle
-
-**v1.0.0.1**
+[![Travis](https://img.shields.io/badge/release-v1.0.0.1-blue.svg?style=plastic)](https://github.com/to9/CodeStyle/tree/master/bin)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=plastic)](https://github.com/to9/CodeStyle/tree/master/bin)
 
 
