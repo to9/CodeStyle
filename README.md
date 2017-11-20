@@ -1,5 +1,5 @@
 # CodeStyle
-[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?style=plastic)](https://github.com/to9/CodeStyle)<br>
+[![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/CodeStyle)<br>
 
 **v1.0.0.1**
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=plastic)](https://github.com/to9/CodeStyle/tree/master/bin)
