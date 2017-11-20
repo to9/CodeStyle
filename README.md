@@ -1,4 +1,4 @@
-<div align=center><img width="150" height="150" src="https://github.com/to9/CodeStyle/blob/master/images/CodeStyle.png"/></div>
+<div align=center><img width="100" height="100" src="https://github.com/to9/CodeStyle/blob/master/images/CodeStyle.png"/></div>
 
 # CodeStyle
 [![Travis](https://img.shields.io/badge/release-v1.0.0.1-blue.svg?style=plastic)](https://github.com/to9/CodeStyle/tree/master/bin)
