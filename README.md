@@ -16,7 +16,7 @@ c、c++代码格式化工具.支持c、c++功能。可选择文件、文件夹�
 
 * Simple App on Windows:
 
-<div align=left><img width="700" height="422" src="https://github.com/to9/CodeStyle/blob/master/images/codestyle_sample.png"/></div>
+<div align=left><img width="800" height="505" src="https://github.com/to9/CodeStyle/blob/master/images/codestyle_sample.png"/></div>
 
 ## License
 
