@@ -18,6 +18,18 @@ c、c++代码格式化工具.支持c、c++功能。可选择文件、文件夹�
 
 <div align=left><img width="800" height="505" src="https://github.com/to9/CodeStyle/blob/master/images/codestyle_sample.png"/></div>
 
+## Source code organization
+```
+CodeStyle /
+  │—— CodeStyle.ico
+  │—— CodeStyle.pro
+  │—— main.cpp
+  │—— processthread.cpp
+  │—— processthread.h
+  │—— widget.cpp
+  │—— widget.h
+  `——widget.ui
+```
 ## License
 
 [![Crates.io](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/to9/CodeStyle)<br>
