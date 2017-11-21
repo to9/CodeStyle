@@ -20,7 +20,7 @@ c、c++代码格式化工具.支持c、c++功能。可选择文件、文件夹�
 
 ## Source code organization
 ```
-CodeStyle /
+CodeStyle/src/
   │—— CodeStyle.ico
   │—— CodeStyle.pro
   │—— main.cpp
